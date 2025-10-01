@@ -1,6 +1,9 @@
 # Model Inspection
 
 ## Papers
+
+[Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](https://doi.org/10.48550/arXiv.2509.25045), Preprint
+
 [Unveiling LLMs: The Evolution of Latent Representations in a Dynamic Knowledge Graph](https://openreview.net/forum?id=dWYRjT501w), COLM 2024
 
 [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/abs/2012.09838), CVPR 2021
@@ -27,7 +30,9 @@ PDP: [Greedy function approximation: A gradient boosting machine](https://statwe
 
 ## Github Repostories
 
-Latent Explorer [https://github.com/Ipazia-AI/latent-explorer](https://github.com/Ipazia-AI/latent-explorer) ![](https://img.shields.io/github/stars/Ipazia-AI/latent-explorer.svg?style=social)
+Hyperprobe: [https://github.com/Ipazia-AI/hyperprobe](https://github.com/Ipazia-AI/hyperprobe) ![](https://img.shields.io/github/stars/Ipazia-AI/hyperprobe.svg?style=social)
+
+Latent Explorer: [https://github.com/Ipazia-AI/latent-explorer](https://github.com/Ipazia-AI/latent-explorer) ![](https://img.shields.io/github/stars/Ipazia-AI/latent-explorer.svg?style=social)
 
 Alibi: [https://github.com/SeldonIO/alibi](https://github.com/SeldonIO/alibi) ![](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social)
 
